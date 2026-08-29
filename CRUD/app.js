@@ -1,1 +1,1 @@
-console.log("¡Hola, mundillo! Te amo, manatí");
+console.log("soy una maquina de escribir filosofia");
